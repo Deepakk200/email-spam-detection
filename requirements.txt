@@ -1,0 +1,13 @@
+ipykernel==7.4.0
+joblib==1.6.0
+jupyter==1.1.1
+matplotlib==3.11.2
+nbconvert==7.17.2
+nltk==3.10.4
+numpy==2.4.6
+pandas==3.1.0
+pillow==13.0.0
+scikit-learn==1.9.1
+seaborn==0.13.2
+wordcloud==1.9.6
+xgboost==3.2.0
